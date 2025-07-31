@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic-settings
+google-generativeai
+langchain
+langchain-community
+chromadb
+pypdf
+pymupdf
+pytest
+httpx
+python-multipart
